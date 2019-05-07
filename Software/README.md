@@ -7,11 +7,11 @@ There are 4 modes that can be configured with the Nebra AnyBeam HAT:
 * Mode 3 - RGB 666 + GPIO 26
 * Mode 4 - RGB 66 + GPIO 26 + GPIO 27
 
-##Auto Configuration
+## Auto Configuration
 
 Coming soon
 
-##Manual Configuration
+## Manual Configuration
 
 You will need to edit the config.txt file on the Raspberry Pi before you can use the AnyBeam HAT. To do this you can either insert the micro SD into your computer or you can edit by booting up the Raspberry Pi with a monitor, keyboard & mouse connected.
 
@@ -34,7 +34,7 @@ Go to line 53 in the config.txt file:
 
 **Step 4** - Add the following lines to configure your mode (Mode 1 is default):
 
-###Mode 1 - RGB 888 (24 bits - 8 bits for Red, Green, Blue)
+### Mode 1 - RGB 888 (24 bits - 8 bits for Red, Green, Blue)
 ```
 dtoverlay=dpi24
 overscan_left=0
@@ -50,7 +50,7 @@ dpi_mode=85
 dpi_output_format=0x070027
 ```
 
-###Mode 2 - RGB 666 (18 bits - 6 bits for Red, Green, Blue) + GPIO 26 and GPIO 27
+### Mode 2 - RGB 666 (18 bits - 6 bits for Red, Green, Blue) + GPIO 26 and GPIO 27
 ```
 dtoverlay=dpi24
 overscan_left=0
@@ -66,7 +66,7 @@ dpi_mode=85
 dpi_output_format=0x070026
 ```
 
-###Mode 3 - RGB 666 + GPIO 27 + Button (GPIO 26)
+### Mode 3 - RGB 666 + GPIO 27 + Button (GPIO 26)
 ```
 dtoverlay=dpi24
 overscan_left=0
@@ -82,7 +82,7 @@ dpi_mode=85
 dpi_output_format=0x070026
 ```
 
-###Mode 4 - RGB 666 + GPIO 26 with 4.7k pull-up resistor + GPIO 27 with 4.7k pull-up resistor
+### Mode 4 - RGB 666 + GPIO 26 with 4.7k pull-up resistor + GPIO 27 with 4.7k pull-up resistor
 ```
 dtoverlay=dpi24
 overscan_left=0

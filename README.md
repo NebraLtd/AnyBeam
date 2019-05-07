@@ -1,10 +1,10 @@
 ![nebra-anybeam-logo-large](https://user-images.githubusercontent.com/1878314/57131200-99d4f000-6d93-11e9-9e84-b299042e3f68.png)
 
-#Nebra AnyBeam
+# Nebra AnyBeam
 
 Resources for the Nebra AnyBeam range of Pico laser projectors, originally funded through KickStarter. Nebra AnyBeam is the worlds smallest pocket projector with the power to project a crystal clear picture on any surface. Simply plug and play with your smart phone, laptop or tablet to watch your favourite content on the big screen, powered by an ordinary power bank or from a USB port on your computer.
 
-##Overview
+## Overview
 
 The AnyBeam pico laser projectors technology is super efficient and does not generate excessive amounts of heat, like some older generation of projectors. This in turn means that we don't need to add any noisy fans inside to keep everything nice and cool, it will never interrupt your viewing experience.
 
@@ -21,7 +21,7 @@ The laser MEMS technology, which is at the heart of the Nebra AnyBeam projector 
 * Light Weight - Weighs just 140g
 * Pocket Size - Low profile form factor
 
-##Form Factors
+## Form Factors
 
 **Nebra AnyBeam**
 
@@ -39,11 +39,11 @@ The laser MEMS technology, which is at the heart of the Nebra AnyBeam projector 
 
 ![fef04f88cac4d2ad8462f001d77f57a7_original](https://user-images.githubusercontent.com/1878314/57292457-a457f800-70b9-11e9-9c00-1fb0904eef92.png)
 
-##Reviews and links
+## Reviews and links
 Here are some links to reviews and articles from around the web:
 
-* hackster.io - ![A Pico Projector for the Raspberry Pi?](https://blog.hackster.io/a-pico-projector-for-the-raspberry-pi-ba23e70da9f9)
-* hackster.io - ![Unboxing Video](https://www.facebook.com/hacksterio/videos/321714168512741/)
-* Hackaday article - ![A petite pico projector for the portable pi](https://hackaday.com/2019/04/07/a-petite-pico-projector-for-portable-pi/)
+* hackster.io - [A Pico Projector for the Raspberry Pi?](https://blog.hackster.io/a-pico-projector-for-the-raspberry-pi-ba23e70da9f9)
+* hackster.io - [Unboxing Video](https://www.facebook.com/hacksterio/videos/321714168512741/)
+* Hackaday article - [A petite pico projector for the portable pi](https://hackaday.com/2019/04/07/a-petite-pico-projector-for-portable-pi/)
 
-##Projects
+## Projects
