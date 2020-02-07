@@ -1,4 +1,4 @@
-![nebra-anybeam-logo-large](https://user-images.githubusercontent.com/1878314/57131200-99d4f000-6d93-11e9-9e84-b299042e3f68.png)
+![nebra-anybeam-logo-large](https://user-images.githubusercontent.com/1878314/73881114-b12b9700-4857-11ea-98a3-f8b1825712f1.png)
 
 # Nebra AnyBeam
 
