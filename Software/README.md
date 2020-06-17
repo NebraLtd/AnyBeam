@@ -9,7 +9,10 @@ There are 4 modes that can be configured with the Nebra AnyBeam HAT:
 
 ## Auto Configuration
 
-Coming soon
+Run the following command:
+```bash
+curl -sSL https://pisupp.ly/anybeaminstall | sudo bash
+```
 
 ## Manual Configuration
 
