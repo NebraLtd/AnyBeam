@@ -105,3 +105,7 @@ dtoverlay=i2c-gpio,i2c_gpio_delay_us=1,i2c_gpio_sda=26,i2c_gpio_scl=27
 **Step 5** - Save and boot
 
 Save the config.txt with your new changes and the remove the microSD card and insert into your Raspberry Pi. Apply power to your Raspberry Pi to boot with the new changes. Then, wait a few minutes to allow the Nebra AnyBeam HAT laser projector to boot.
+
+## FAQ
+
+Can I use the PiJuice HAT with the Anybeam HAT?
