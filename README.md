@@ -85,6 +85,15 @@ Image is projected, but no audio output --Projector is in mute mode - Please pre
 
 Another abnormal audio output - Reset the projector by power on/off (USB cable unplug, plug back in).
 
+### Can I power the AnyBeam from the Raspberry Pi USB?
+
+Yes, the AnyBeam can be powered using the Raspberry Pi USB port. You will however need to force the HDMI output to use 720p by editing the `/boot/config.txt` file and add the following:
+```
+hdmi_force_hotplug=1
+hdmi_group=1
+hdmi_mode=4
+```
+
 ## Safety Instructions
 * Do not drop or apply impact to LSP display module
 * Do not expose LSP display module to water or heat sources.
