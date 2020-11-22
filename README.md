@@ -76,7 +76,7 @@ Shows blurred and hazy images - Please make sure the cover glass of projector is
 
 Projected image is jittering or shaking - Ensure the input resolution is 720p.
 
-Other display image abnormal - Re-plug the power cable to reset the device, check if the problem still existed.
+Other display image abnormal - Re-plug the power cable to reset the device, check if the problem still exists.
 
 ### No Audio output
 Image is projected, but no audio output - Please check the source device audio setting.
