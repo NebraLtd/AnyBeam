@@ -94,6 +94,42 @@ hdmi_group=1
 hdmi_mode=4
 ```
 
+## Power Information
+
+### Consumption FAQs
+A Frequently Asked question is the power consumption of the Anybeam range, How can the power consumption be as low as 3W but the PSU required is 1.5A?
+
+Due to the nature of how Anybeam works, the laser module only consumes power for the power where shown and not the entire projection window so in darker scenes or cases where only a portion of the screen has an image on the power consumption is significantly less.
+
+In our testing when watching a typical movie the projector draws around 0.7-0.8A, we also done full screen testing with the primary colours to get some further measurements:
+
+* Fully Black Screen - 0.5A
+* Fully White Screen - 1.1A
+* Fully Red Screen - 0.65A
+* Fully Green Screen - 0.8A
+* Fully Blue Screen - 0.7A
+
+For most applications based on the above information a typical consumption of 1A should be calculated for, with peaks of 1.5A (hence the 1.5A power adaptor requirement.)
+
+The above tests were performed to be a rough guideline and unit to unit variations may apply as well. The standalone model was measured however power consumption for the Development Kit & HAT should be fairly similar as they use the same hardware.
+
+For the HAT variation the total power required will be higher from where you are also powering the Raspberry Pi, in these cases a power supply of at least 3A should be used on a Pi 4, and 2.5A on Model 3B+ and below.
+
+### Battery Power
+
+We've had a few customers ask how big of a battery bank is required to power the unit for certain periods of time.
+
+Here's some rough guidelines based on the above information we make the following recommendations:
+
+* 5,000mAh Battery -  Approximately 2 Hours, 45 Minutes.
+* 10,000mAh Battery - Approximately 5 Hours
+* 15,000mAh Battery - Approximately 8 Hours
+* 20,000mAh Battery - Approximately 10 Hours
+
+Please note the above is only rough estimates as the quality of battery between battery banks may vary and not all capacities between different brands. We've based this on a power consumption of 1A however as explained above when projecting very bright video scenes , white images etc the time may be less, with darker scenes and partial projection it may be longer.
+
+Calculations have been made on a basis of 80% efficiency of the battery pack.
+
 ## Safety Instructions
 * Do not drop or apply impact to LSP display module
 * Do not expose LSP display module to water or heat sources.
