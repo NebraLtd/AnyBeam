@@ -138,7 +138,7 @@ Calculations have been made on a basis of 80% efficiency of the battery pack.
 
 ## Laser Safety Information
 * HD301D1 is a Class 1 LASER PRODUCT(IEC/EN 60825-1:2014)
-* Beware the eyes injured that cause by laser bean, so please do not look at laser beam directly.
+* BEWARE: eye injuries can be caused by laser beams, do not look at the laser beam directly.
 * THIS LABEL CONTAINS IMPORTANT INFORMATION. DO NOT REMOVE THAT.
 
 ![safety_label](https://user-images.githubusercontent.com/1878314/74422820-1fb7b880-4e47-11ea-9956-1f20cc75ea9a.png)
